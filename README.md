@@ -6,6 +6,10 @@ description: "Sample data for Microsoft Learn modules for Azure HDInsight"
 urlFragment: "sample-data"
 ---
 
+# Basic template for HDInsight projects
+
+This fork is based on the repository template for Azure HDInsight
+
 # Sample data for Microsoft Learn modules for Azure HDInsight
 
 This repository contains sample data for use with Microsoft Learn modules for Azure HDInsight.
